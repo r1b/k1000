@@ -29,6 +29,6 @@ variables `MAC99_ISO` and `MAC99_IMG` respectively.
 
 ## references
 
-[1] [Qemu for OSX](http://www.emaculation.com/doku.php/ppc-osx-on-qemu-for-osx)
+[1] [Qemu for OSX](http://www.emaculation.com/doku.php/ppc-osx-on-qemu-for-osx)  
 [2] [QEMU/Images](https://en.wikibooks.org/wiki/QEMU/Images)
 [3] [Kurzweil MacObjectMover and Expanders](http://kurzweil.com/content/migration/downloads/pub/Kurzweil/Pro_Products/Other_Pro_Products/1000-1200_Series/MacObjectMover/)
