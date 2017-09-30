@@ -14,5 +14,5 @@ You need a Mac OS 9 install ISO. These are easy to find.
 
 ## references
 
-[1] [Qemu for OSX](http://www.emaculation.com/doku.php/ppc-osx-on-qemu-for-osx)
+[1] [Qemu for OSX](http://www.emaculation.com/doku.php/ppc-osx-on-qemu-for-osx)  
 [2] [QEMU/Images](https://en.wikibooks.org/wiki/QEMU/Images)
